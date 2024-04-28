@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Isagani Jaen</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Isagani Jaen</description>
+    <generator>Hugo -- 0.125.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2024 17:59:05 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Data Analyst to Leadership in Tech</title>
+      <link>//localhost:1313/blog/from-data-analyst-to-leadership-in-tech/</link>
+      <pubDate>Sun, 28 Apr 2024 17:59:05 +0800</pubDate>
+      <guid>//localhost:1313/blog/from-data-analyst-to-leadership-in-tech/</guid>
+      <description>Introduction: Hello 👋, and welcome to my blog! My name is Isagani Jaen, and I&amp;rsquo;m excited to share my journey with you. Through this blog, I aim to provide insights into my professional experiences, lessons learned, and expertise in the tech industry.
+My Professional Journey: My journey in the tech world began on June 2012. Over the years, I&amp;rsquo;ve had the opportunity to work with some incredible teams and tackle a variety of projects that have shaped my skills and perspective.</description>
+    </item>
+  </channel>
+</rss>
