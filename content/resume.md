@@ -409,7 +409,8 @@ tags: ["Resume","About Me","Profile"]
     </svg>
         </a>
             </div>
-     </li>       
+     </li> 
+   </ol>        
 <br/>
 <br/>
 <br/>
