@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Isagani Jaen</title>
-    <link>/</link>
+    <link>https://isaganijaen.com/</link>
     <description>Recent content on Isagani Jaen</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2024 17:59:05 +0800</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://isaganijaen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Data Analyst to Leadership in Tech</title>
-      <link>/blog/from-data-analyst-to-leadership-in-tech/</link>
+      <link>https://isaganijaen.com/blog/from-data-analyst-to-leadership-in-tech/</link>
       <pubDate>Sun, 28 Apr 2024 17:59:05 +0800</pubDate>
-      <guid>/blog/from-data-analyst-to-leadership-in-tech/</guid>
+      <guid>https://isaganijaen.com/blog/from-data-analyst-to-leadership-in-tech/</guid>
       <description>Introduction: Hello 👋, and welcome to my blog! My name is Isagani Jaen, and I&amp;rsquo;m excited to share my journey with you. Through this blog, I aim to provide insights into my professional experiences, lessons learned, and expertise in the tech industry.
 My Professional Journey: My journey in the tech world began on June 2012. Over the years, I&amp;rsquo;ve had the opportunity to work with some incredible teams and tackle a variety of projects that have shaped my skills and perspective.</description>
     </item>
     <item>
       <title></title>
-      <link>/resume/</link>
+      <link>https://isaganijaen.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/resume/</guid>
+      <guid>https://isaganijaen.com/resume/</guid>
       <description>Experience Software Development Senior Analyst Accenture in the Philippines Jun 2022 - Present · Worked directly with clients as GNR-Analytics Lead. · Applied innovative ideas to drive the automation of Delivery Analytics at the client level using technologies such as clients&#39; internal Business Intelligence Suite, Google&#39;s F1 Engine, Google SQL, Workflow Pipeline, Google App Scripts and performed data analysis using Python and Colab.
 System Developer Analyst Accenture in the Philippines Oct 2020 - Jun 2022 · 1 yr 9 mos · Perfromed ETL, reports mobilization, dashboard creation, workflow automation, and reporting automation.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>https://isaganijaen.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/</guid>
+      <guid>https://isaganijaen.com/projects/</guid>
       <description> Personal Website My online portfolio, isaganijaen.com was created using Hugo.
 Visit Site </description>
     </item>
