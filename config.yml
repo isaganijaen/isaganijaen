@@ -82,7 +82,8 @@ params:
     enabled: true
     # title: "<Title>" # optional default will be site title
     subtitle: "System Development Senior Analyst"
-    imageUrl: "img/isagani-jaen-fb.jpg" # optional
+    # imageUrl: "img/isagani-jaen-fb.jpg" # optional
+    imageUrl: "https://pbs.twimg.com/profile_images/1752594393046081536/HyzWEsBK_400x400.jpg" # optional
     imageTitle: "Isagani Jaen" # optional
     imageWidth: 150 # custom size
     imageHeight: 150 # custom size
