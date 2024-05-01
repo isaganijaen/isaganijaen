@@ -376,10 +376,9 @@ tags: ["Resume","About Me","Profile"]
             </svg>
             ChatGPT
      </li>         
-    <br/>  &nbsp;   
-                                                                                          
+                                                                              
 </ul>
-
+    <br/>  &nbsp;   
  <h1 class="text-4xl font-extrabold text-gray-800 dark:text-white">Social Media / Contact</h2> &nbsp;
     <br/> 
    <ul> 
