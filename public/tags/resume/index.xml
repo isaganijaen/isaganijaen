@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resume on Isagani Jaen</title>
-    <link>https://isaganijaen.com/tags/resume/</link>
+    <link>http://localhost:1313/tags/resume/</link>
     <description>Recent content in Resume on Isagani Jaen</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <atom:link href="https://isaganijaen.com/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://isaganijaen.com/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/resume/</guid>
+      <guid>http://localhost:1313/resume/</guid>
       <description>Experience Software Development Senior Analyst Accenture in the Philippines Jun 2022 - Present · Worked directly with clients as GNR-Analytics Lead. · Applied innovative ideas to drive the automation of Delivery Analytics at the client level using technologies such as clients&#39; internal Business Intelligence Suite, Google&#39;s F1 Engine, Google SQL, Workflow Pipeline, Google App Scripts and performed data analysis using Python and Colab.
 System Developer Analyst Accenture in the Philippines Oct 2020 - Jun 2022 · 1 yr 9 mos · Perfromed ETL, reports mobilization, dashboard creation, workflow automation, and reporting automation.</description>
     </item>
