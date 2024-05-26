@@ -2,11 +2,18 @@
 title: 'Meet ProdAI: My Open-Source AI Assistant'
 date: 2024-05-27T01:43:46+08:00
 draft:  false
+
+cover:
+    image: 'img/prodAI.png'
+    alt: 'ProdAI'
+    caption: 'ProdAI'    
 ---
 
 Hey everyone!
 
 I’m super excited to share something I’ve been working on – **[ProdAI](https://github.com/isaganijaen/prodai)**, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.
+
+Available at my Github repository: [https://github.com/isaganijaen/prodai](https://github.com/isaganijaen/prodai)
 
 ## What’s ProdAI?
 ProdAI is like having your personal assistant that’s always ready to help. Built with some cool web technologies, it uses AI models to handle a bunch of different tasks. Whether you need some brainstorming help, content writing, or just a friendly conversation, ProdAI has got your back.

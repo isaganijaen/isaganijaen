@@ -9,7 +9,7 @@
 <meta name="keywords" content="">
 <meta name="description" content="Hey everyone!
 I’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.
-What’s ProdAI? ProdAI is like having your personal assistant that’s always ready to help.">
+Available at my Github repository: https://github.">
 <meta name="author" content="Isagani Jaen">
 <link rel="canonical" href="http://localhost:1313/blog/meet-prodai/">
 <meta name="google-site-verification" content="XYZabc">
@@ -66,17 +66,19 @@ What’s ProdAI? ProdAI is like having your personal assistant that’s always r
 <meta property="og:title" content="Meet ProdAI: My Open-Source AI Assistant" />
 <meta property="og:description" content="Hey everyone!
 I’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.
-What’s ProdAI? ProdAI is like having your personal assistant that’s always ready to help." />
+Available at my Github repository: https://github." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/blog/meet-prodai/" /><meta property="article:section" content="blog" />
+<meta property="og:url" content="http://localhost:1313/blog/meet-prodai/" />
+<meta property="og:image" content="http://localhost:1313/img/prodAI.png" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2024-05-27T01:43:46+08:00" />
 <meta property="article:modified_time" content="2024-05-27T01:43:46+08:00" /><meta property="og:site_name" content="Isagani Jaen" />
 
-<meta name="twitter:card" content="summary"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/img/prodAI.png" />
 <meta name="twitter:title" content="Meet ProdAI: My Open-Source AI Assistant"/>
 <meta name="twitter:description" content="Hey everyone!
 I’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.
-What’s ProdAI? ProdAI is like having your personal assistant that’s always ready to help."/>
+Available at my Github repository: https://github."/>
 
 
 <script type="application/ld+json">
@@ -105,14 +107,14 @@ What’s ProdAI? ProdAI is like having your personal assistant that’s always r
   "@type": "BlogPosting",
   "headline": "Meet ProdAI: My Open-Source AI Assistant",
   "name": "Meet ProdAI: My Open-Source AI Assistant",
-  "description": "Hey everyone!\nI’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.\nWhat’s ProdAI? ProdAI is like having your personal assistant that’s always ready to help.",
+  "description": "Hey everyone!\nI’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.\nAvailable at my Github repository: https://github.",
   "keywords": [
     
   ],
-  "articleBody": "Hey everyone!\nI’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.\nWhat’s ProdAI? ProdAI is like having your personal assistant that’s always ready to help. Built with some cool web technologies, it uses AI models to handle a bunch of different tasks. Whether you need some brainstorming help, content writing, or just a friendly conversation, ProdAI has got your back.\nCool Features 1. AI Conversations ProdAI can chat with you and help with ideas, write stuff, or just talk about anything. It’s like having a smart friend who’s always available.\n2. Pick Your Model You can choose from different AI models based on what you need. Right now, ProdAI supports models like Gemma-1.1-2b int4 and Gemma-2b int8. So, you get to pick the one that works best for you.\n3. Conversation History (Currently in-progress) ProdAI keeps track of your chats, so you can go back and see what you talked about. No need to worry about losing important info!\n4. Customize Your Look Built with Vue.js and Tailwind CSS, ProdAI looks clean and modern. You can tweak the interface to match your style – change themes, layouts, you name it.\nHow It Works ProdAI is made with HTML, CSS, and JavaScript, and it’s super easy to use. Here’s a quick look at how it all fits together:\nFrontend: The interface is made with HTML and styled with Tailwind CSS and DaisyUI. Vue.js handles all the dynamic parts, making everything smooth and interactive. Backend: You can switch between AI models through a simple dropdown menu. The app uses marked.js to render Markdown content, so text interactions look great. Getting Started with ProdAI Setting up ProdAI is a breeze. Just follow these steps:\nClone the Repo: Grab the ProdAI code from GitHub and put it on your computer. Copy code git clone https://github.com/yourusername/prodai.git cd prodai Download Gemma 2B (TensorFlow Lite 2b-it-gpu-int4 or 2b-it-gpu-int8) or convert an external LLM (Phi-2, Falcon, or StableLM) following the guide (only gpu backend is currently supported), into the your folder. In your index.js file, update modelFileName with your model file’s name. Run python3 -m http.server 8000 under your folder to host the three files (or python -m SimpleHTTPServer 8000 for older python versions). Open localhost:8000 in Chrome. Then the button on the webpage will be enabled when the task is ready (~10 seconds). Choose a Model: Pick the AI model you want from the sidebar dropdown. ProdAI will load it up, and you can start chatting right away. Note: You may use Live Server in your VS Code if you don’t want to use python.\nMake It Your Own The best part about ProdAI is that you can customize it however you like. Here are a few ideas:\nChange the Theme: Tweak the Tailwind CSS settings to create a look that’s all you. Add New Models: Update the model selection component in Vue.js to add more AI models. Add Features: Want voice recognition, task management, or scheduling? Go ahead and add them to ProdAI. Wrap-Up ProdAI isn’t just an AI assistant – it’s a way to bring AI into your daily life and make it work for you. Since it’s open-source, you can customize it, contribute to it, and make it even better.\nI hope you have as much fun using ProdAI as I had making it. Check out the GitHub repository to get started, and let me know what you think. Your feedback and contributions are always welcome!\nHappy hacking!\n",
-  "wordCount" : "630",
+  "articleBody": "Hey everyone!\nI’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.\nAvailable at my Github repository: https://github.com/isaganijaen/prodai\nWhat’s ProdAI? ProdAI is like having your personal assistant that’s always ready to help. Built with some cool web technologies, it uses AI models to handle a bunch of different tasks. Whether you need some brainstorming help, content writing, or just a friendly conversation, ProdAI has got your back.\nCool Features 1. AI Conversations ProdAI can chat with you and help with ideas, write stuff, or just talk about anything. It’s like having a smart friend who’s always available.\n2. Pick Your Model You can choose from different AI models based on what you need. Right now, ProdAI supports models like Gemma-1.1-2b int4 and Gemma-2b int8. So, you get to pick the one that works best for you.\n3. Conversation History (Currently in-progress) ProdAI keeps track of your chats, so you can go back and see what you talked about. No need to worry about losing important info!\n4. Customize Your Look Built with Vue.js and Tailwind CSS, ProdAI looks clean and modern. You can tweak the interface to match your style – change themes, layouts, you name it.\nHow It Works ProdAI is made with HTML, CSS, and JavaScript, and it’s super easy to use. Here’s a quick look at how it all fits together:\nFrontend: The interface is made with HTML and styled with Tailwind CSS and DaisyUI. Vue.js handles all the dynamic parts, making everything smooth and interactive. Backend: You can switch between AI models through a simple dropdown menu. The app uses marked.js to render Markdown content, so text interactions look great. Getting Started with ProdAI Setting up ProdAI is a breeze. Just follow these steps:\nClone the Repo: Grab the ProdAI code from GitHub and put it on your computer. Copy code git clone https://github.com/yourusername/prodai.git cd prodai Download Gemma 2B (TensorFlow Lite 2b-it-gpu-int4 or 2b-it-gpu-int8) or convert an external LLM (Phi-2, Falcon, or StableLM) following the guide (only gpu backend is currently supported), into the your folder. In your index.js file, update modelFileName with your model file’s name. Run python3 -m http.server 8000 under your folder to host the three files (or python -m SimpleHTTPServer 8000 for older python versions). Open localhost:8000 in Chrome. Then the button on the webpage will be enabled when the task is ready (~10 seconds). Choose a Model: Pick the AI model you want from the sidebar dropdown. ProdAI will load it up, and you can start chatting right away. Note: You may use Live Server in your VS Code if you don’t want to use python.\nMake It Your Own The best part about ProdAI is that you can customize it however you like. Here are a few ideas:\nChange the Theme: Tweak the Tailwind CSS settings to create a look that’s all you. Add New Models: Update the model selection component in Vue.js to add more AI models. Add Features: Want voice recognition, task management, or scheduling? Go ahead and add them to ProdAI. Wrap-Up ProdAI isn’t just an AI assistant – it’s a way to bring AI into your daily life and make it work for you. Since it’s open-source, you can customize it, contribute to it, and make it even better.\nI hope you have as much fun using ProdAI as I had making it. Check out the GitHub repository to get started, and let me know what you think. Your feedback and contributions are always welcome!\nHappy hacking!\n",
+  "wordCount" : "636",
   "inLanguage": "en",
-  "datePublished": "2024-05-27T01:43:46+08:00",
+  "image":"http://localhost:1313/img/prodAI.png","datePublished": "2024-05-27T01:43:46+08:00",
   "dateModified": "2024-05-27T01:43:46+08:00",
   "author":{
     "@type": "Person",
@@ -205,10 +207,14 @@ What’s ProdAI? ProdAI is like having your personal assistant that’s always r
     <h1 class="post-title entry-hint-parent">
       Meet ProdAI: My Open-Source AI Assistant
     </h1>
-    <div class="post-meta"><span title='2024-05-27 01:43:46 +0800 +08'>May 27, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;630 words&nbsp;·&nbsp;Isagani Jaen
+    <div class="post-meta"><span title='2024-05-27 01:43:46 +0800 +08'>May 27, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;636 words&nbsp;·&nbsp;Isagani Jaen
 
 </div>
-  </header> <div class="toc">
+  </header> 
+<figure class="entry-cover"><a href="http://localhost:1313/img/prodAI.png" target="_blank"
+            rel="noopener noreferrer"><img loading="eager" src="http://localhost:1313/img/prodAI.png" alt="ProdAI"></a>
+        <p>ProdAI</p>
+</figure><div class="toc">
     <details >
         <summary accesskey="c" title="(Alt + C)">
             <span class="details">Table of Contents</span>
@@ -237,6 +243,7 @@ What’s ProdAI? ProdAI is like having your personal assistant that’s always r
 
   <div class="post-content"><p>Hey everyone!</p>
 <p>I’m super excited to share something I’ve been working on – <strong><a href="https://github.com/isaganijaen/prodai">ProdAI</a></strong>, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.</p>
+<p>Available at my Github repository: <a href="https://github.com/isaganijaen/prodai">https://github.com/isaganijaen/prodai</a></p>
 <h2 id="whats-prodai">What’s ProdAI?<a hidden class="anchor" aria-hidden="true" href="#whats-prodai">#</a></h2>
 <p>ProdAI is like having your personal assistant that’s always ready to help. Built with some cool web technologies, it uses AI models to handle a bunch of different tasks. Whether you need some brainstorming help, content writing, or just a friendly conversation, ProdAI has got your back.</p>
 <h2 id="cool-features">Cool Features<a hidden class="anchor" aria-hidden="true" href="#cool-features">#</a></h2>
