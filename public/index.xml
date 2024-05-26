@@ -6,8 +6,17 @@
     <description>Recent content on Isagani Jaen</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Apr 2024 17:59:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 01:43:46 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet ProdAI: My Open-Source AI Assistant</title>
+      <link>http://localhost:1313/blog/meet-prodai/</link>
+      <pubDate>Mon, 27 May 2024 01:43:46 +0800</pubDate>
+      <guid>http://localhost:1313/blog/meet-prodai/</guid>
+      <description>Hey everyone!
+I’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.
+Available at my Github repository: https://github.</description>
+    </item>
     <item>
       <title>From Data Analyst to Leadership in Tech</title>
       <link>http://localhost:1313/blog/from-data-analyst-to-leadership-in-tech/</link>
@@ -30,7 +39,8 @@ System Developer Analyst Accenture in the Philippines Oct 2020 - Jun 2022 · 1 y
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description> Personal Website My online portfolio, isaganijaen.com was created using Hugo.
-Visit Site </description>
+Visit Site ProdAI - AI Personal Assistant My AI personal assistant powered by Gemma 2B, Tailwind CSS, DaisyUI and VueJS.
+Visit Repository </description>
     </item>
   </channel>
 </rss>

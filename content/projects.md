@@ -78,7 +78,19 @@ tags: ["Project","Portfolio"]
             <a href="/"class="card-button">Visit Site</a>
         </div>
     </div>
+    <div class="card">
+        <img src="/img/prodAI.png" alt="Image">
+        <div class="card-content">
+            <h2 class="card-title">ProdAI - AI Personal Assistant</h2>
+            <p class="card-description">My AI personal assistant powered by Gemma 2B, Tailwind CSS, DaisyUI and VueJS.</p>
+            <a href="https://github.com/isaganijaen/prodai"class="card-button">Visit Repository</a>
+        </div>
+    </div>    
 </div>
+
+
+
+
 
 
 
