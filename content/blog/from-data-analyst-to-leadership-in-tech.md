@@ -1,7 +1,7 @@
 ---
 title: 'From Data Analyst to Leadership in Tech'
 date: 2024-04-28T17:59:05+08:00
-draft: false
+draft: true
 searchHidden: false
 tags: ["About Me","Profile"]
 cover:
