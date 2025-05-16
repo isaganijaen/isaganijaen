@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolio on Isagani Jaen</title>
-    <link>http://localhost:1313/tags/portfolio/</link>
+    <link>https://isaganijaen.com/tags/portfolio/</link>
     <description>Recent content in Portfolio on Isagani Jaen</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://isaganijaen.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://isaganijaen.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://isaganijaen.com/projects/</guid>
       <description> Personal Website My online portfolio, isaganijaen.com was created using Hugo.
 Visit Site ProdAI - AI Personal Assistant My AI personal assistant powered by Gemma 2B, Tailwind CSS, DaisyUI and VueJS.
 Visit Repository </description>

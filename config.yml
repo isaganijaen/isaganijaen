@@ -1,4 +1,5 @@
-baseURL: 'https://isaganijaen.com/'
+baseURL: 'https://isaganijaen.pages.dev/'
+# baseURL: 'https://isaganijaen.com/'
 languageCode: 'en-us'
 title: 'Isagani Jaen'
 theme: 'PaperMod'
