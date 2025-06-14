@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Isagani Jaen</title>
-    <link>https://isaganijaen.com/</link>
+    <link>https://isaganijaen.pages.dev/</link>
     <description>Recent content on Isagani Jaen</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 May 2024 01:43:46 +0800</lastBuildDate>
-    <atom:link href="https://isaganijaen.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://isaganijaen.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meet ProdAI: My Open-Source AI Assistant</title>
-      <link>https://isaganijaen.com/blog/meet-prodai/</link>
+      <link>https://isaganijaen.pages.dev/blog/meet-prodai/</link>
       <pubDate>Mon, 27 May 2024 01:43:46 +0800</pubDate>
-      <guid>https://isaganijaen.com/blog/meet-prodai/</guid>
+      <guid>https://isaganijaen.pages.dev/blog/meet-prodai/</guid>
       <description>Hey everyone!
 I’m super excited to share something I’ve been working on – ProdAI, my very own open-source AI assistant. If you’ve ever wanted a handy AI buddy to help with your daily tasks, answer questions, or just have a chat, then you’re going to love this. Let me walk you through what ProdAI is, how it works, and how you can set it up for yourself.
 Available at my Github repository: https://github.</description>
     </item>
     <item>
       <title></title>
-      <link>https://isaganijaen.com/resume/</link>
+      <link>https://isaganijaen.pages.dev/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/resume/</guid>
+      <guid>https://isaganijaen.pages.dev/resume/</guid>
       <description>Experience Software Development Senior Analyst Accenture in the Philippines Jun 2022 - Present · Worked directly with clients as GNR-Analytics Lead. · Applied innovative ideas to drive the automation of Delivery Analytics at the client level using technologies such as clients&#39; internal Business Intelligence Suite, Google&#39;s F1 Engine, Google SQL, Workflow Pipeline, Google App Scripts and performed data analysis using Python and Colab.
 System Developer Analyst Accenture in the Philippines Oct 2020 - Jun 2022 · 1 yr 9 mos · Perfromed ETL, reports mobilization, dashboard creation, workflow automation, and reporting automation.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://isaganijaen.com/projects/</link>
+      <link>https://isaganijaen.pages.dev/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/projects/</guid>
+      <guid>https://isaganijaen.pages.dev/projects/</guid>
       <description> Personal Website My online portfolio, isaganijaen.com was created using Hugo.
 Visit Site ProdAI - AI Personal Assistant My AI personal assistant powered by Gemma 2B, Tailwind CSS, DaisyUI and VueJS.
 Visit Repository </description>

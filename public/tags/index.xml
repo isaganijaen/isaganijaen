@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Isagani Jaen</title>
-    <link>https://isaganijaen.com/tags/</link>
+    <link>https://isaganijaen.pages.dev/tags/</link>
     <description>Recent content in Tags on Isagani Jaen</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <atom:link href="https://isaganijaen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://isaganijaen.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://isaganijaen.com/tags/about-me/</link>
+      <link>https://isaganijaen.pages.dev/tags/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/tags/about-me/</guid>
+      <guid>https://isaganijaen.pages.dev/tags/about-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>https://isaganijaen.com/tags/portfolio/</link>
+      <link>https://isaganijaen.pages.dev/tags/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/tags/portfolio/</guid>
+      <guid>https://isaganijaen.pages.dev/tags/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Profile</title>
-      <link>https://isaganijaen.com/tags/profile/</link>
+      <link>https://isaganijaen.pages.dev/tags/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/tags/profile/</guid>
+      <guid>https://isaganijaen.pages.dev/tags/profile/</guid>
       <description></description>
     </item>
     <item>
       <title>Project</title>
-      <link>https://isaganijaen.com/tags/project/</link>
+      <link>https://isaganijaen.pages.dev/tags/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/tags/project/</guid>
+      <guid>https://isaganijaen.pages.dev/tags/project/</guid>
       <description></description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://isaganijaen.com/tags/resume/</link>
+      <link>https://isaganijaen.pages.dev/tags/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isaganijaen.com/tags/resume/</guid>
+      <guid>https://isaganijaen.pages.dev/tags/resume/</guid>
       <description></description>
     </item>
   </channel>
