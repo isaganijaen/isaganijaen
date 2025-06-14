@@ -79,13 +79,21 @@ tags: ["Project","Portfolio"]
         </div>
     </div>
     <div class="card">
-        <img src="/img/prodAI.png" alt="Image">
+        <img src="/img/prodAI.png" alt="ProdAI">
         <div class="card-content">
             <h2 class="card-title">ProdAI - AI Personal Assistant</h2>
             <p class="card-description">My AI personal assistant powered by Gemma 2B, Tailwind CSS, DaisyUI and VueJS.</p>
             <a href="https://github.com/isaganijaen/prodai"class="card-button">Visit Repository</a>
         </div>
-    </div>    
+    </div>   
+    <div class="card">
+        <img src="/img/content_3.png" alt="CreatorOS">
+        <div class="card-content">
+            <h2 class="card-title">CreatorOS</h2>
+            <p class="card-description">A webapp built on to of NuxtJS. Its purpose is to help aspiring and new content creators streamline their content creation process</p>
+            <a href="https://creatoros.space"class="card-button">Visit the Website</a>
+        </div>
+    </div>        
 </div>
 
 
